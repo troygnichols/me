@@ -16,6 +16,8 @@ I look like this:
 
 <img src="/assets/me.jpg" height="175">
 
+Thumbs up for programming.
+
 *Weird views warning:* I like computers and electronics but I'm critical of Silicon Valley, the tech industry generally, and even more generally, all private industry.
 
 
