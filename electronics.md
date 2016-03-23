@@ -4,6 +4,8 @@ title: Electronics
 permalink: /electronics/
 ---
 
+<img src="/assets/circuit-diagram-2.png" width="500"/>
+
 <p>Lately I've started building analog guitar effects circuits. I'm still very new and bad at it. I'll have more to say about this soon.
 </p>
 
