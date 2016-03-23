@@ -10,7 +10,7 @@ permalink: /about/
 
 <br>
 
-My name is Troy Nichols. I'm a tech worker. This is my site about web programming and electronics<sup>1</sup>. I've been a web programmer for about 8 years. I mostly write **Ruby on Rails** and **EmberJS** applications.
+My name is Troy Nichols. I'm a tech worker. This is my site about web programming and electronics<sup>1</sup>. I've been a working programmer for about 8 years. I mostly write **Ruby on Rails** and **EmberJS** applications.
 
 I look like this:
 

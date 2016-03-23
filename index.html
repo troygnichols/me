@@ -3,8 +3,51 @@ layout: default
 ---
 
 <div class="home">
+  <h1>Projects</h1>
 
-  <h1 class="page-heading">Posts</h1>
+  <ul class="post-list">
+
+    <li>
+      <span class="post-meta"><a href="https://github.com/{{site.github_username}}/tones">View Source</span>
+      <h2><a href="http://tone-generator.herokuapp.com" target="_blank">Tone Generator</a></h2>
+      <small>Tone generator/synthesizer demo in EmberJS + Web Audio APIs (Chrome only for now ☹  )</small>
+    </li>
+
+    <li>
+      <span class="post-meta"><a href="https://github.com/{{site.github_username}}/zark-billing">View Source</span>
+      <h2><a href="http://zark-billing.herokuapp.com" target="_blank">Billing App</a></h2>
+      <small>EmberJS + Rails app generates invoices for my freelance projects</small>
+    </li>
+
+    <li>
+      <span class="post-meta"><a href="https://github.com/{{site.github_username}}/brandishcv">View Source</span>
+      <h2><a href="http://cv.tgn.io" target="_blank">brandishcv</a></h2>
+      <small>A rails app for brandishing your CV/resume. Uses markdown, can export PDF and MS Word docs.</small>
+    </li>
+
+    <li>
+      <span class="post-meta">Not much here yet</span>
+      <h2><a href="electronics">Electronics</a></h2>
+      <small>My analog electronics projects</small>
+    </li>
+
+    <li>
+      <h2>
+        <span class="post-meta">Everything Else</span>
+        <h2>
+          <a href="https://github.com/{{ site.github_username }}?tab=repositories" target="_blank">
+            <span class="icon icon--github">{% include icon-github.svg %}</span>
+            See all my github projects
+        </h2>
+      </a>
+      </h2>
+    </li>
+  </ul>
+
+  <hr>
+  <br>
+
+  <h1>Writing</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
