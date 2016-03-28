@@ -4,7 +4,9 @@ title: "Silicon Valley vs. Democracy"
 date: 2016-02-20 12:00 -0500
 ---
 
-**This is an essay I wrote. tldr; Silicon Valley? Actually it's bad.**
+**Writing practice. I believe all this stuff, but it's kind of a diatribe.**
+
+**tldr; Silicon Valley? Actually it's bad.**
 
 
 Silicon Valley (SV) ideals are dominant in US culture right now, and they’re filtering out into the rest of the world as well. These ideals consist of an amalgam of conservative/libertarian principles like meritocracy, market fundamentalism, the primacy of self, a veneration of grit and will in the pursuit of wealth, an obsession with efficiency, and major skepticism toward collective or public projects, all smashed together with some often contradictory liberal platitudes about pluralism and inclusivity, an inclination toward the worship of youth, and the conviction that technology and automation are “making the world a better place.” (Yes, but for who?) In other words, a shell of liberal aesthetics surrounds a core of conservatism.
